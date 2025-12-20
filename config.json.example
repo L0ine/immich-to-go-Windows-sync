@@ -1,0 +1,6 @@
+{
+    "ServerUrl": "http://your-immich-ip:8089",
+    "ApiKey": "YOUR_API_KEY_HERE",
+    "SourceFolder": "C:\\path\\to\\your\\photos",
+    "IntervalMinutes": 10
+}

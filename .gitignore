@@ -1,0 +1,12 @@
+# Exclude configuration with secrets
+config.json
+
+# Exclude large executables
+immich-go.exe
+
+# Exclude logs
+*.log
+
+# Windows internal files
+Thumbs.db
+Desktop.ini
